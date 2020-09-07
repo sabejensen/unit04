@@ -1,0 +1,39 @@
+nav, main, footer {
+        max-width: 60rem;
+        margin:auto;
+        animation-name: fade-in;
+        animation-duration: 2s;
+}
+
+/*----------- BODY --------------*/
+
+.wrapper {
+        width: 100%;
+        background-color: $primaryColor;
+        animation-name: fade-in;
+        animation-duration: 1s;
+}
+
+
+/*----------- HEADER --------------*/
+header {
+        background-image: url("../images/header.png");
+        max-width: 60.7rem;
+        margin: auto;
+}
+#header-wrapper {
+        background-color: lighten($primaryColor, 50%);
+}
+
+/*----------- NAVIGATION --------------*/
+
+
+
+/*----------- MAIN --------------*/
+main #page-image {
+        width: 40%;
+}
+
+
+/*----------- FOOTER --------------*/
+    
