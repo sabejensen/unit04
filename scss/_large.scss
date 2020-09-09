@@ -1,8 +1,6 @@
 nav, main, footer {
         max-width: 60rem;
         margin:auto;
-        animation-name: fade-in;
-        animation-duration: 2s;
 }
 
 /*----------- BODY --------------*/
@@ -10,8 +8,6 @@ nav, main, footer {
 .wrapper {
         width: 100%;
         background-color: $primaryColor;
-        animation-name: fade-in;
-        animation-duration: 1s;
 }
 
 
